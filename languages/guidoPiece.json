@@ -1,0 +1,61 @@
+{
+    "varSection": [
+      {
+        "varName": "scale",
+        "varValue": "c d e f g a b c"
+      }
+    ],
+    "score": [
+        [
+          {
+            "noteName": "c",
+            "octave": 1,
+            "duration": "/2"
+          },
+          {
+            "noteName": "d"
+          },
+          {
+            "noteName": "e"
+          },
+          {
+            "noteName": "f"
+          },
+          {
+            "noteName": "g"
+          },
+          {
+            "noteName": "a"
+          },
+          {
+            "noteName": "b"
+          },
+          {
+            "noteName": "c",
+            "octave": 2
+          },
+          {
+            "isRest": true
+          },
+          [
+            {
+              "noteName": "c"
+            },
+            {
+              "noteName": "e"
+            },
+            {
+              "noteName": "g"
+            }
+          ]
+        ],
+        [
+          "$scale",
+          "$scale",
+          {
+            "noteName": "C",
+            "isNamedChord": true
+          }
+        ]
+    ]
+  }
