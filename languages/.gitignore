@@ -1,0 +1,7 @@
+/GMN/classes_gen/
+/GMN/source_gen/
+**/dependencies
+**/deps.cp
+**/generated
+**/trace.info
+
